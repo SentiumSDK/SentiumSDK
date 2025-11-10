@@ -1,4 +1,4 @@
-## ✨ SentiumSDK ✨👋
+## ✨ Sentium SDK ✨
 
 Sentium introduces a revolutionary blockchain development framework that addresses fundamental limitations of existing distributed ledger technologies through three groundbreaking innovations: the **Sentium 7-Layer Architecture (SLA)**, **Proof-of-Value (PoV) consensus mechanism**, and **polyglot runtime architecture**. Unlike traditional blockchain platforms, Sentium provides a modular SDK enabling developers to build application-specific blockchains with quantum-resistant security, AI-mediated consensus, and multi-language support.
 
